@@ -1,5 +1,9 @@
 1. a
 2. aa
 3. aaa
+<<<<<<< HEAD
 4. masger branchÀÇ a.txt file ³»¿ë º¯°æ...
 5. aaaa
+=======
+silhum(½ÇÇè) branch : aaaa
+>>>>>>> ì‹¤í—˜
